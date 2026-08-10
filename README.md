@@ -31,6 +31,8 @@ ___negrito e italico__
 |-------------|-------------|
 |texto1       | texto2      |
 |texto3       | texto4      |
+-[x] Tarefa 1<br>
+-[ ] Tarefa 2
 
 
 

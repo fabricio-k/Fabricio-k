@@ -6,6 +6,17 @@
 #### Título 4
 ##### Título 5
 ###### Título 6
+*italico ou _italico_
+***NEgrito** ou  _negrito_
+
+___negrito e italico__
+
+- Lista 1
+- Lista 2 
+    - Sublista
+
+
+
 
 <!--
 **fabricio-k/Fabricio-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

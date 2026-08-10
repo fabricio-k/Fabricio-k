@@ -27,8 +27,10 @@ ___negrito e italico__
 ``` system.out.println(); system.out.println(); system.out.println();system.out.println();system.out.println();```
 > Texto da Citações
 
-| Cabeçalho 1 | Cabeçalho 2 |-------------|--------------| tecto1    texto 2
-
+| Cabeçalho 1 | Cabeçalho 2 |
+|-------------|-------------|
+|texto1       | texto2      |
+|texto3       | texto4      |
 
 
 

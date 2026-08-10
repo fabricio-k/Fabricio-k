@@ -6,8 +6,8 @@
 #### Título 4
 ##### Título 5
 ###### Título 6
-*italico ou _italico_
-***NEgrito** ou  _negrito_
+*italico* ou _italico_
+***Negrito** ou  _negrito_
 
 ___negrito e italico__
 

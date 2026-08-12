@@ -46,6 +46,10 @@ Este GitHub é onde registro parte desse processo: **projetos, estudos, experime
 > **Ainda não está pronto. É justamente por isso que está aqui.** 🚧
 
 ---
+<!--
+Este bloco inteiro de texto
+não vai aparecer no README do GitHub.
+Pode usar quantas linhas quiser.
 
 # 🛠️ Tecnologias
 
@@ -74,3 +78,4 @@ Este GitHub é onde registro parte desse processo: **projetos, estudos, experime
 🇧🇷 Salvador, Bahia
 
 </div>
+-->

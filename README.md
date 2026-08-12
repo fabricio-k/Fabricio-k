@@ -1,40 +1,39 @@
-<h1>👨‍💻 Fabricio Silva</h1>
+<div align="center">
 
-<pre>
-┌──────────────────────────────────────────────┐
-│                 FABRICIO.EXE                 │
-├──────────────────────────────────────────────┤
-│                                              │
-│  🎓 Sistemas de Informação                   │
-│  💻 Desenvolvimento de software              │
-│  🧠 Lógica de programação                    │
-│  🗄️ Bancos de dados                          │
-│  🐧 Linux                                    │
-│  🔀 Git & GitHub                             │
-│                                              │
-│  📍 Salvador, Bahia 🇧🇷                       │
-│                                              │
-│  🚧 STATUS: EM CONSTRUÇÃO                    │
-│                                              │
-└──────────────────────────────────────────────┘
-</pre>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=33FF57&center=true&vCenter=true&width=650&lines=Iniciando+fabricio.exe...;Estudante+de+Sistemas+de+Informação;JavaScript+%7C+HTML+%7C+CSS+%7C+PHP;MySQL+%7C+Linux+%7C+Git+%26+GitHub;Aprendendo+%7C+Construindo+%7C+Testando;Sistema+em+construção+%F0%9F%9A%A7" />
 
-<p>
-  Atualmente construindo minha trajetória na área de tecnologia, estudando programação e explorando desenvolvimento de software, backend, bancos de dados e fundamentos de sistemas.
-</p>
+<br>
 
-<p>
-  Este GitHub é onde registro parte desse processo: projetos, estudos, experimentos, erros, correções e algumas ideias que ainda estão tomando forma.
-</p>
+<img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&label=VISITAS+NO+PERFIL&style=flat-square&color=33FF57" />
 
-<blockquote>
-  🚧 <em>Ainda não está pronto. É justamente por isso que está aqui.</em>
-</blockquote>
+<br><br>
 
-<hr>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
+
+<h3>🚧 "Sistema em construção." 🚧</h3>
+
+</div>
+
+---
+
+# 🧑‍💻 Sobre mim
 
 <div align="center">
-  <p><strong>🚧 SISTEMA EM CONSTRUÇÃO 🚧</strong></p>
-  <p><em>Cada projeto é mais uma parte da construção.</em></p>
-  <p>📍 Salvador, Bahia 🇧🇷</p>
-</div>
+
+```text
+┌──────────────────────────────────────┐
+│             FABRICIO.EXE             │
+├──────────────────────────────────────┤
+│                                      │
+│  🎓 Sistemas de Informação           │
+│  💻 Desenvolvimento de software      │
+│  🧠 Lógica de programação            │
+│  🗄️ Bancos de dados                  │
+│  🐧 Linux                             │
+│  🔀 Git & GitHub                      │
+│                                      │
+│  📍 Salvador, Bahia 🇧🇷               │
+│                                      │
+│  🚧 STATUS: EM CONSTRUÇÃO            │
+│                                      │
+└──────────────────────────────────────┘

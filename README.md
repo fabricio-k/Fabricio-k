@@ -2,71 +2,52 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=33FF57&center=true&vCenter=true&width=650&lines=Initializing+developer.exe...;Student+%7C+Information+Systems;JavaScript+%7C+HTML+%7C+CSS+%7C+PHP;MySQL+%7C+Linux+%7C+Git+%26+GitHub;Building+things%2C+breaking+things%2C+learning+things;System+status%3A+UNDER+CONSTRUCTION+%F0%9F%9A%A7" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=27&duration=3000&pause=1000&color=33FF57&center=true&vCenter=true&width=650&lines=Iniciando+fabricio.exe...;Estudante+de+Sistemas+de+Informação;JavaScript+%7C+HTML+%7C+CSS+%7C+PHP;MySQL+%7C+Linux+%7C+Git+%26+GitHub;Aprendendo+%7C+Construindo+%7C+Testando;Sistema+em+construção+%F0%9F%9A%A7" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&label=PROFILE+VIEWS&style=flat-square&color=33FF57" />
+<img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&label=VISITAS+NO+PERFIL&style=flat-square&color=33FF57" />
 
 <br><br>
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
 
-<h3>🚧 "This system is still under construction." 🚧</h3>
+<h3>🚧 "Sistema em construção." 🚧</h3>
 
 </div>
 
 ---
 
-# 🧑‍💻 About Me
-
-```bash
-$ whoami
-
-Fabricio Silva
-Information Systems Student
-Salvador, Bahia 🇧🇷
-
-$ status
-
-[████████████████░░░░] 80% learning
-[██████████████░░░░░░] 70% coding
-[████████████░░░░░░░░] 60% building
-[██████████░░░░░░░░░░] 50% understanding why it works
-```
-
-Estudante de **Sistemas de Informação**, atualmente construindo minha base em desenvolvimento de software e explorando diferentes áreas da tecnologia.
-
-Meu foco principal está em **programação, desenvolvimento backend, bancos de dados e fundamentos de sistemas**.
-
-Este GitHub é basicamente meu ambiente de desenvolvimento público: projetos, exercícios, experimentos, erros, correções e algumas ideias que provavelmente vão mudar completamente daqui a alguns meses. 🛠️
-
-> **Não está pronto. Está sendo construído.**
-
----
-
-# ⚙️ Current Mission
+# 🧑‍💻 Sobre mim
 
 ```text
 ┌──────────────────────────────────────────────┐
-│              DEVELOPER STATUS               │
+│                 FABRICIO.EXE                 │
 ├──────────────────────────────────────────────┤
 │                                              │
-│  📚 Learning      →  Programming             │
-│  🧠 Improving     →  Problem Solving         │
-│  💻 Building      →  Personal Projects       │
-│  🗄️ Exploring     →  Databases               │
-│  🐧 Practicing    →  Linux                   │
-│  🔀 Managing      →  Git & GitHub            │
+│  🎓 Sistemas de Informação                   │
+│  💻 Desenvolvimento de software              │
+│  🧠 Lógica de programação                    │
+│  🗄️ Bancos de dados                          │
+│  🐧 Linux                                    │
+│  🔀 Git & GitHub                              │
 │                                              │
-│  🚧 STATUS: WORK IN PROGRESS                 │
+│  📍 Salvador, Bahia 🇧🇷                       │
+│                                              │
+│  🚧 STATUS: EM CONSTRUÇÃO                    │
 │                                              │
 └──────────────────────────────────────────────┘
 ```
 
+Atualmente construindo minha trajetória na área de tecnologia, estudando programação e explorando desenvolvimento de software, backend, bancos de dados e fundamentos de sistemas.
+
+Este GitHub é onde registro parte desse processo: **projetos, estudos, experimentos, erros, correções e algumas ideias que ainda estão tomando forma.**
+
+> **Ainda não está pronto. É justamente por isso que está aqui.** 🚧
+
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Tecnologias
 
 <div align="center">
 
@@ -74,81 +55,46 @@ Este GitHub é basicamente meu ambiente de desenvolvimento público: projetos, e
 
 </div>
 
-<br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/JavaScript-Learning-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/PHP-Learning-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-Learning-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-Practicing-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-
-</div>
-
 ---
 
-# 🚀 Projects
-
-> Projects are being built while the developer is being built too.
+# 🚀 Projetos
 
 ### 🧮 Calculadora de Partidas Rankeadas
 
-Projeto desenvolvido durante meus estudos de JavaScript, aplicando estruturas de decisão, funções, variáveis e lógica de programação.
-
-**Status:** `completed`
-
----
+Projeto desenvolvido durante os estudos de JavaScript, colocando em prática lógica de programação, funções, variáveis e estruturas de decisão.
 
 ### 🎮 Escrevendo Classes de um Jogo
 
-Projeto desenvolvido para praticar **classes, objetos, métodos e conceitos de orientação a objetos**.
+Projeto desenvolvido para praticar classes, objetos, métodos e conceitos de programação orientada a objetos.
 
-**Status:** `learning`
+### 🧪 Estudos e experimentos
 
----
-
-### 🧪 Experimentos & Estudos
-
-Repositório destinado a exercícios, testes, pequenos projetos e experimentos realizados durante minha jornada de aprendizagem.
-
-**Status:** `always changing`
+Um espaço para exercícios, testes, pequenos projetos e tudo aquilo que faz parte do processo de aprendizagem.
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 🧠 Currently Learning
+# 📚 Atualmente estudando
 
 ```text
-JavaScript       ███████████████░░░░░  Learning
-Backend          ████████████░░░░░░░░  Exploring
-Databases        ███████████░░░░░░░░░  Learning
-Linux            ██████████████░░░░░░  Practicing
-Git & GitHub     ████████████████░░░░  Practicing
-Problem Solving  █████████████░░░░░░░  Improving
+JavaScript        ███████████████░░░░░
+Desenvolvimento   ████████████░░░░░░░░
+Banco de dados    ███████████░░░░░░░░░
+Linux             ██████████████░░░░░░
+Git & GitHub      ████████████████░░░░
+Lógica            █████████████░░░░░░░
 ```
 
 ---
 
-# 🐛 Developer.exe
+# 🐛 fabricio.exe
 
 ```javascript
-while (alive) {
-    learn();
-    build();
-    breakThings();
-    debug();
-    repeat();
+while (vivo) {
+    estudar();
+    programar();
+    errar();
+    depurar();
+    repetir();
 }
 ```
 
@@ -156,17 +102,16 @@ while (alive) {
 
 <div align="center">
 
-### 🚧 SYSTEM STATUS: UNDER CONSTRUCTION 🚧
+### 🚧 SISTEMA EM CONSTRUÇÃO 🚧
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="220" />
 
 <br>
 
-<i>Every repository here is another brick in the build.</i>
+<i>Cada projeto é mais uma parte da construção.</i>
 
 <br><br>
 
 🇧🇷 Salvador, Bahia
 
 </div>
-

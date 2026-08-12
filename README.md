@@ -83,8 +83,18 @@ Pode usar quantas linhas quiser.
 
 <div align="center">
 
-[![Git e GitHub - DIO](https://img.shields.io/badge/Git%20e%20GitHub-DIO-33FF57?style=for-the-badge&logo=git&logoColor=white)](https://hermes.dio.me/certificates/UFQUAPCK.pdf)
+# 🎓 Certificações
 
-[![JavaScript - DIO](https://img.shields.io/badge/JavaScript-DIO-33FF57?style=for-the-badge&logo=javascript&logoColor=white)](https://hermes.dio.me/certificates/UFQUAPCK.pdf)
+<div align="center">
+
+<a href="LINK_DO_CERTIFICADO">
+<img src="https://img.shields.io/badge/Git%20e%20GitHub-DIO-33FF57?style=for-the-badge&logo=git&logoColor=white" />
+</a>
+
+<a href="LINK_DO_CERTIFICADO">
+<img src="https://img.shields.io/badge/JavaScript-DIO-33FF57?style=for-the-badge&logo=javascript&logoColor=white" />
+</a>
+
+</div>
 
 </div>

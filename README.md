@@ -79,22 +79,18 @@ Pode usar quantas linhas quiser.
 
 </div>
 -->
-# 🎓 Certificações
+---
+
+# 🎓 Formação Complementar
 
 <div align="center">
 
-# 🎓 Certificações
-
-<div align="center">
-
-<a href="LINK_DO_CERTIFICADO">
-<img src="https://img.shields.io/badge/Git%20e%20GitHub-DIO-33FF57?style=for-the-badge&logo=git&logoColor=white" />
+<a href="https://hermes.dio.me/certificates/UFQUAPCK.pdf">
+<img src="https://img.shields.io/badge/Formação-GitHub-33FF57?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="LINK_DO_CERTIFICADO">
-<img src="https://img.shields.io/badge/JavaScript-DIO-33FF57?style=for-the-badge&logo=javascript&logoColor=white" />
+<a href="https://hermes.dio.me/certificates/CA5VJBYS.pdf">
+<img src="https://img.shields.io/badge/Formação-Lógica%20de%20Programação-33FF57?style=for-the-badge&logo=javascript&logoColor=white" />
 </a>
-
-</div>
 
 </div>

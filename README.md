@@ -30,7 +30,7 @@
 │  🧠 Lógica de programação                    │
 │  🗄️ Bancos de dados                          │
 │  🐧 Linux                                    │
-│  🔀 Git & GitHub                              │
+│  🔀 Git & GitHub                             │
 │                                              │
 │  📍 Salvador, Bahia 🇧🇷                       │
 │                                              │
@@ -81,37 +81,8 @@ Desenvolvimento   ████████████░░░░░░░░
 Banco de dados    ███████████░░░░░░░░░
 Linux             ██████████████░░░░░░
 Git & GitHub      ████████████████░░░░
-Lógica            █████████████░░░░░░░
+Lógica            ████
 ```
 
 ---
 
-# 🐛 fabricio.exe
-
-```javascript
-while (vivo) {
-    estudar();
-    programar();
-    errar();
-    depurar();
-    repetir();
-}
-```
-
----
-
-<div align="center">
-
-### 🚧 SISTEMA EM CONSTRUÇÃO 🚧
-
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="220" />
-
-<br>
-
-<i>Cada projeto é mais uma parte da construção.</i>
-
-<br><br>
-
-🇧🇷 Salvador, Bahia
-
-</div>

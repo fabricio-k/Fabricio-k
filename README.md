@@ -1,8 +1,8 @@
-<!--# 👨‍💻 Fabricio Silva-->
+<!--# 👨‍💻 Fabricio Silva>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=27&duration=3000&pause=1000&color=33FF57&center=true&vCenter=true&width=650&lines=Iniciando+fabricio.exe...;Estudante+de+Sistemas+de+Informação;JavaScript+%7C+HTML+%7C+CSS+%7C+PHP;MySQL+%7C+Linux+%7C+Git+%26+GitHub;Aprendendo+%7C+Construindo+%7C+Testando;Sistema+em+construção+%F0%9F%9A%A7" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=27&duration=3000&pause=1000&color=33FF57&center=true&vCenter=true&width=650&lines=Iniciando+fabricio.exe...;Estudant[...]"
 
 <br>
 <!--# <img src="https://komarev.com/ghpvc/?username=fabricio-k&label=VISITAS+NO+PERFIL&style=flat-square&color=33FF57" />-->
@@ -83,12 +83,8 @@ Pode usar quantas linhas quiser.
 
 <div align="center">
 
-<a href="[LINK_DO_CERTIFICADO](https://hermes.dio.me/certificates/UFQUAPCK.pdf)">
-<img src="https://img.shields.io/badge/Git%20e%20GitHub-DIO-33FF57?style=for-the-badge&logo=git&logoColor=white" />
-</a>
+[![Git e GitHub - DIO](https://img.shields.io/badge/Git%20e%20GitHub-DIO-33FF57?style=for-the-badge&logo=git&logoColor=white)](https://hermes.dio.me/certificates/UFQUAPCK.pdf)
 
-<a href="LINK_DO_CERTIFICADO">
-<img src="https://img.shields.io/badge/JavaScript-DIO-33FF57?style=for-the-badge&logo=javascript&logoColor=white" />
-</a>
+[![JavaScript - DIO](https://img.shields.io/badge/JavaScript-DIO-33FF57?style=for-the-badge&logo=javascript&logoColor=white)](https://hermes.dio.me/certificates/UFQUAPCK.pdf)
 
 </div>

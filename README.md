@@ -57,48 +57,7 @@ Este GitHub é onde registro parte desse processo: **projetos, estudos, experime
 
 ---
 
-# 🚀 Projetos
 
-### 🧮 Calculadora de Partidas Rankeadas
-
-Projeto desenvolvido durante os estudos de JavaScript, colocando em prática lógica de programação, funções, variáveis e estruturas de decisão.
-
-### 🎮 Escrevendo Classes de um Jogo
-
-Projeto desenvolvido para praticar classes, objetos, métodos e conceitos de programação orientada a objetos.
-
-### 🧪 Estudos e experimentos
-
-Um espaço para exercícios, testes, pequenos projetos e tudo aquilo que faz parte do processo de aprendizagem.
-
----
-
-# 📚 Atualmente estudando
-
-```text
-JavaScript        ███████████████░░░░░
-Desenvolvimento   ████████████░░░░░░░░
-Banco de dados    ███████████░░░░░░░░░
-Linux             ██████████████░░░░░░
-Git & GitHub      ████████████████░░░░
-Lógica            █████████████░░░░░░░
-```
-
----
-
-# 🐛 fabricio.exe
-
-```javascript
-while (vivo) {
-    estudar();
-    programar();
-    errar();
-    depurar();
-    repetir();
-}
-```
-
----
 
 <div align="center">
 
